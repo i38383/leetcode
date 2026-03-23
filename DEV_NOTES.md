@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Updated license year
 - Drafted initial implementation plan for v2
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
+- Resolved TODO items from previous session
